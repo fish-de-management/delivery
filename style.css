@@ -70,8 +70,9 @@ a.btn_03 {
 	vertical-align: middle;
 	text-decoration: none;
 	margin: auto;
-	width:60%;
+	width:40%;
 	padding: 1rem 4rem;
+	font-size:40px;
 	font-weight: bold;
 	border: 2px solid #27acd9;
 	color: #27acd9;
